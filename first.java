@@ -1,6 +1,6 @@
-import java.util.*;
-publice static first{
-  publice static void main (String[] args){
+
+public class first{
+  public static void main (String[] args){
     System.out.println("Hello word");
   }
 }
